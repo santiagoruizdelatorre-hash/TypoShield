@@ -145,7 +145,7 @@ TypoShield/
 
 ## Uso de herramientas externas o IA
 
-Este proyecto ha sido desarrollado manualmente por los miembros del grupo. Se ha utilizado Claude (Anthropic) para asistir en la estructuración inicial del código, generación de plantillas y resolución de dudas puntuales. Todo el código funcional ha sido revisado, comprendido y adaptado por los integrantes del grupo. Las líneas generadas con asistencia de IA están marcadas con el comentario `# AI-assisted` en el código fuente.
+Este proyecto ha sido desarrollado manualmente por los miembros del grupo. Se ha utilizado Claude para asistir en la estructuración inicial del código, generación de plantillas y resolución de dudas puntuales. Todo el código funcional ha sido revisado, comprendido y adaptado por los integrantes del grupo. Las líneas generadas con asistencia de IA están marcadas con el comentario `# AI-assisted` en el código fuente.
 
 ---
 
