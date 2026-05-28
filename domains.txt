@@ -1,0 +1,66 @@
+# domains.txt — Dominios legítimos de referencia para TypoShield
+# Líneas que empiezan por # son comentarios y se ignoran.
+# Añade los dominios que necesites (uno por línea, sin https://).
+
+# ── Buscadores y grandes tecnológicas ──
+google.com
+bing.com
+yahoo.com
+duckduckgo.com
+microsoft.com
+apple.com
+amazon.com
+meta.com
+facebook.com
+instagram.com
+twitter.com
+x.com
+linkedin.com
+youtube.com
+netflix.com
+spotify.com
+tiktok.com
+whatsapp.com
+telegram.org
+
+# ── Servicios financieros ──
+paypal.com
+stripe.com
+visa.com
+mastercard.com
+bankofamerica.com
+chase.com
+wellsfargo.com
+ing.com
+bbva.com
+santander.com
+caixabank.com
+lacaixa.es
+
+# ── Tecnología y desarrollo ──
+github.com
+gitlab.com
+stackoverflow.com
+npmjs.com
+pypi.org
+docker.com
+cloudflare.com
+aws.amazon.com
+azure.microsoft.com
+digitalocean.com
+
+# ── Noticias y referencia ──
+wikipedia.org
+reddit.com
+medium.com
+bbc.com
+nytimes.com
+reuters.com
+elmundo.es
+elpais.com
+
+# ── Correo ──
+gmail.com
+outlook.com
+yahoo.com
+protonmail.com
