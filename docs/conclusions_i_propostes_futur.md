@@ -8,11 +8,11 @@ TypoShield és un sistema funcional de detecció de typosquatting que demostra c
 
 **Respecte als requisits tècnics:**
 
-- ✅ **Relació amb la ciberseguretat:** el sistema aborda directament els atacs de typosquatting i phishing per domini.
-- ✅ **Estructures de dades:** ús de hash maps (`dict`) per a O(1) en cerca de dominis, llistes ordenades per a top-N resultats i sets per a l'algoritme de Jaccard.
-- ✅ **Complexitat i recursivitat:** l'algoritme de Levenshtein utilitza DP. La complexitat dominant és O(D·n·m), analitzada detalladament a l'estudi de complexitat.
-- ✅ **POO i polimorfisme:** jerarquia `SimilarityAlgorithm` → `LevenshteinAlgorithm`, `SequenceMatcherAlgorithm`, `JaccardAlgorithm`. `URLAnalyzer` usa polimorfisme per acceptar qualsevol implementació.
-- ✅ **Gitflow:** treball col·laboratiu amb branques per funcionalitat i commits descriptius.
+-  **Relació amb la ciberseguretat:** el sistema aborda directament els atacs de typosquatting i phishing per domini.
+-  **Estructures de dades:** ús de hash maps (`dict`) per a O(1) en cerca de dominis, llistes ordenades per a top-N resultats i sets per a l'algoritme de Jaccard.
+-  **Complexitat i recursivitat:** l'algoritme de Levenshtein utilitza DP. La complexitat dominant és O(D·n·m), analitzada detalladament a l'estudi de complexitat.
+-  **POO i polimorfisme:** jerarquia `SimilarityAlgorithm` → `LevenshteinAlgorithm`, `SequenceMatcherAlgorithm`, `JaccardAlgorithm`. `URLAnalyzer` usa polimorfisme per acceptar qualsevol implementació.
+-  **Gitflow:** treball col·laboratiu amb branques per funcionalitat i commits descriptius.
 
 **Limitacions identificades:**
 
